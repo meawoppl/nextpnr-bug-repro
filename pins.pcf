@@ -1,0 +1,27 @@
+set_io ledR	41
+set_io ledB	40
+set_io ledG	39
+
+# Motor Outputs
+set_io pwmOut[0] 28
+set_io pwmOut[1] 38
+set_io pwmOut[2] 42
+set_io pwmOut[3] 36
+set_io pwmOut[4] 43
+set_io pwmOut[5] 34
+set_io pwmOut[6] 37
+set_io pwmOut[7] 31
+
+# Radio Outputs
+set_io tx 23
+set_io miso 3
+set_io mosi 45
+set_io sck 47
+set_io cs 46
+set_io sdn 2
+
+# Camera Wires
+set_io cameraClock 6
+set_io ccClock 11
+set_io ccData 9
+set_io ccSync 25
